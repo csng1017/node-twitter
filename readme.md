@@ -28,4 +28,5 @@ description.
 If you enjoy using it, you can tip me here at https://gratipay.com/vinitkme/. Thanks! :)
 
 ## LICENSE
+Vinit Kumar
 MIT
